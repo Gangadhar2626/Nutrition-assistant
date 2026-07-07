@@ -178,6 +178,16 @@ nutrition-assistant/
 | client   | `npm run dev`        | Start Vite dev server      |
 | client   | `npm run build`      | Production build           |
 
+## Project Documentation
+
+- [Project Architecture](docs/project-architecture.md)
+- [Technical Architecture](docs/technical-architecture.md)
+- [ER Diagram](docs/er-diagram.md)
+- [Key Features](docs/key-features.md)
+- [Roles and Responsibility](docs/roles-and-responsibility.md)
+- [User Flow](docs/user-flow.md)
+- [MVC Pattern](docs/mvc-pattern.md)
+
 ## License
 
 MIT
